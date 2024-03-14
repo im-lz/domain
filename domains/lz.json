@@ -1,0 +1,11 @@
+{
+  "description": "lz.is-a.dev",
+  "repo": "https://github.com/im.lz.github.io",
+  "owner": {
+    "username": "im-lz",
+    "email": "sjjsj1999@gmail.com"
+  },
+  "record": {
+    "CNAME": "im-lz.github.io"
+  }
+}
